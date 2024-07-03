@@ -10,6 +10,7 @@ namespace claculator
 
 
         double numberr1 = 0;
+        int amir = 5
         double numberr2 = 0;
         string opt = "";
         bool isfirstnumber = true;
